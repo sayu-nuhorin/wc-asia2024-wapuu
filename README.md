@@ -1,4 +1,4 @@
-# チャイナわぷー/ China-Wapuu
+# チャイナわぷー(赤・青)/ China-Wapuu(Red・Blue)
 
 ![China-Wapuu-red](asia_wapuu_red.png)
 ![China-Wapuu-red](asia_wapuu_blue.png)
